@@ -1,4 +1,4 @@
-# Bot To Stream Musics on PyTGcalls with Channel Support.
+# Bot To Stream Musics on with Channel Support.
 
 A Telegram Bot to Play Audio in Voice Chats With Supports Live streaming from youtube and Mega Radio Fm Streamings
 
